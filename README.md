@@ -44,7 +44,7 @@ The output is a JSON file containing the full profile followed by a dated record
 
 ## Usage
 
-The notebook is hosted on Kaggle and can be run directly there: [life-story-generator on Kaggle](https://www.kaggle.com/code/mateuszdobrychlop/life-story-generator).
+The notebook is also hosted on Kaggle and can be run directly there: [life-story-generator on Kaggle](https://www.kaggle.com/code/mateuszdobrychlop/life-story-generator).
 
 To run it locally or elsewhere, replace the `UserSecretsClient` key retrieval with your own API key and install the dependency:
 
